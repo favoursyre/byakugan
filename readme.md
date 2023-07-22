@@ -1,6 +1,6 @@
 # Byakugan Intelligent Surveillance System
 
-![image](https://drive.google.com/uc?export=download&id=1mYp4VQ3fUm2kl4QwZQF49JXp2AOXTBeQ)
+![image](https://drive.google.com/uc?export=download&id=1loJZx_V1LhtpoIsTj9awfIA1bQekhcA6)
 
 
 ## Table of Contents
